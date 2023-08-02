@@ -1,0 +1,15 @@
+Algorithme     table  10;
+Var:
+  a,i;multiplication;entier;
+Debut
+  a<–0;
+  Repeter
+  i<–0;
+  Repeter
+  multi<–a*i;
+  Ecrire a"*",i,"=",multi;
+  i<–i+1;
+Jusqu'a i=10;
+  a<–a+1
+Jusqu'a a=10;
+Fin
