@@ -1,0 +1,13 @@
+Algoritme   permutation;
+Var:
+  a,b,tmp:entier;
+Debut
+  Ecrire"entrez un 1er nombre";
+  Lire a;
+  Ecrire"entrez un second nombre";
+  Lire b;
+  tmp ‹– a;
+  a ‹– b;
+  b ‹– tmp;
+  Ecrire a,b;
+Fin
