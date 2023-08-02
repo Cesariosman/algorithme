@@ -1,0 +1,10 @@
+Algorithme      de reponse;
+Var:
+  reponse:chaine de caractere;
+Debut
+  repeter
+  Ecrire"Aimez-vous l'informatique?";
+   
+  Lire reponse;
+Jusqu'a reponse="oui" or reponse=non";
+Fins
