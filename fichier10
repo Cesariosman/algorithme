@@ -1,0 +1,11 @@
+Algorithme   somme;
+Var:
+  s,a:Entier;
+Debut
+  s‹–0;
+  Repeter
+  Ecrire"entrez un nombre";
+  Lire a;
+  s‹–s+a;
+Jusqu'a s>=100;
+Fin
