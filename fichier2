@@ -1,0 +1,10 @@
+algorithme      nombre;
+Var:
+  a1:entiers;
+Debut
+  Repeter
+  Afficher"entrez un nombre";
+  Saisir a1;
+  jusqu'a (a1>=1) And (a1<=3);
+Fin
+      
